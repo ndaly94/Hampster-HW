@@ -5,3 +5,5 @@ console.log(pEl);
 titleEl.style.textAlign = 'center';
 pEl.style.color = 'purple';
 pEl.style.textAlign = 'center';
+const googleLink = document.querySelector('a.googleText');
+googleLink.href = 'http://google.com'
